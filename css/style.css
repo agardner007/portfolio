@@ -252,6 +252,10 @@ body {
     margin-left: 100px;
     display: flex;
   }
+  .Email {
+    padding-left: 10px;
+    text-underline-position: under;
+  }
   .Instagram {
     padding-left: 10px;
     text-underline-position: under;
