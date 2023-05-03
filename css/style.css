@@ -253,7 +253,7 @@ body {
     display: flex;
   }
   .Email {
-    padding-left: 10px;
+        padding-left: 10px;
     text-underline-position: under;
   }
   .Instagram {
